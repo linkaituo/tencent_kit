@@ -1,4 +1,4 @@
-package com.linkaituo.flutter_plugin_test
+package com.linkaituo.flutter_plugin_test_tencent_kit
 
 import androidx.annotation.NonNull
 

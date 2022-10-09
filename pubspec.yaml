@@ -41,7 +41,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.linkaituo.flutter_plugin_test
+        package: com.linkaituo.flutter_plugin_test_tencent_kit
         pluginClass: FlutterPluginTestPlugin
       ios:
         pluginClass: TencentKitPlugin
