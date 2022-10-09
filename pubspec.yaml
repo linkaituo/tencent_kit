@@ -41,8 +41,8 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.example.flutter_ios_widget
-        pluginClass: MainActivity
+        package: com.linkaituo.flutter_plugin_test
+        pluginClass: FlutterPluginTestPlugin
       ios:
         pluginClass: TencentKitPlugin
 
